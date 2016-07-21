@@ -1,0 +1,5 @@
+This programs execute only if you create this file at the specifed location
+f:\commonfile.bin
+
+please create this file by running the following command
+fsutil file createnew commonfile.bin 2048
